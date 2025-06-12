@@ -14,7 +14,7 @@ I have hands-on interests when talking about technology and learning the challen
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="80" height="70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80" height="70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="80" height="70" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="80" height="70" />
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/lucasgdesouza">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?lucasgdesouza&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?lucasgdesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
