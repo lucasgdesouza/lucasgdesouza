@@ -3,6 +3,7 @@ Hey! My name is Lucas Gomes de Souza. I am a second-year Computer Engineering un
 
 I have hands-on interests when talking about technology and learning the challenges tangent to it.
 
+
 ## About me! :arrow_down: :mouse: 
 - 🔭 I’m currently uploading my personal/university projects here on Github;<ul>
 <li style="display: flex; align-items: left;"> 🌱 I’m currently learning HTML, CSS, C# and database;<img src="mario.gif" width="40" style="margin-left: 10px;"></li></ul>
