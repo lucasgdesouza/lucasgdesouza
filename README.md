@@ -5,7 +5,7 @@ I have hands-on interests when talking about technology and learning the challen
 
 ## About me! :arrow_down: :mouse: 
 - 🔭 I’m currently uploading my personal/university projects here on Github;     
-- 🌱 I’m currently learning HTML, CSS, C# and database; <img src="mario.gif" width="150" style="display: block; margin-left: auto; margin-right: 150px;">
+- 🌱 I’m currently learning HTML, CSS, C# and database; <img src="mario.gif" width="150" style="display: block; margin-left: auto; margin-right: 200px;">
 
 
 ## :computer: Skills <img src="https://github.com/lucasgdesouza/lucasgdesouza/raw/main/skills.gif" width="120" height="70">
