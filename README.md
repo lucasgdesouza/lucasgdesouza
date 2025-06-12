@@ -21,6 +21,6 @@ I have hands-on interests when talking about technology and learning the challen
 <a href="https://discord.com/channels/@lucassouzaaa#0878"><img img width = '32px' align= 'center' src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-7-1.png"></a>
 <a href = 'https://www.github.com/lucasgdesouza'> <img width = '32px' align= 'center' src="https://icon-library.com/images/github-icon-white/github-icon-white-6.jpg"/></a>
 <a href = 'https://www.instagram.com/__lucas_gomes/'> <img width = '32px' align= 'center' src="https://www.freepnglogos.com/uploads/instagram-icon-png/instagram-icon-suzem-limited-make-known-20.png"/></a>
-<a href = 'https://www.linkedin.com/in/lucas-gomes-2005/'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/179/179330.png"/></a> 
+<a href = 'https://www.linkedin.com/lucas-gomes-2005/'> <img width = '32px' align= 'center' src="https://cdn-icons-png.flaticon.com/512/179/179330.png"/></a> 
 
 <p>📫 Email: lucasgsouza2013@gmail.com</p>
