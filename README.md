@@ -8,6 +8,7 @@ I have hands-on interests when talking about technology and learning the challen
 <li style="display: flex; align-items: left;"> 🌱 I’m currently learning HTML, CSS, C# and database;<img src="mario.gif" width="40" style="margin-left: 10px;"></li></ul>
 
 
+
 ## :computer: Skills <img src="https://github.com/lucasgdesouza/lucasgdesouza/raw/main/skills.gif" width="100" height="60">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="100" height="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="100" height="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="100" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="100" height="80" />
