@@ -10,4 +10,4 @@ I have hands-on interests when talking about technology and learning the challen
 
 ## :computer: Skills <img src="https://github.com/lucasgdesouza/lucasgdesouza/raw/main/skills.gif" width="100" height="60">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="20" height="10"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="200" height="100"/>
