@@ -1,8 +1,8 @@
 
 <img src="R8sz.gif" width="800" height="400" align= 'center'>
 
-## Hi, dear reader! ![olá](mariodown.gif)
-Hey! My name is Lucas Gomes de Souza. I am a second-year Computer Engineering undergraduate student at the Federal University of Rio Grande do Sul (UFRGS).
+## Hi, dear reader! it's me... ![olá](mariodown.gif)
+Lucas! Hey! My name is Lucas Gomes de Souza. I am a second-year Computer Engineering undergraduate student at the Federal University of Rio Grande do Sul (UFRGS).
 
 I have hands-on interests when talking about technology and learning the challenges tangent to it.
 
